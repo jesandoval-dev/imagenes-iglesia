@@ -1,5 +1,5 @@
 # imagenes-iglesia
-<img width="145" height="152" alt="Transferencia" src="https://github.com/user-attachments/assets/cfb6a6ee-b50c-4613-975a-9db18942b92d" /> <Transferencia>
-<img width="157" height="143" alt="Saldo" src="https://github.com/user-attachments/assets/f6f8db8f-5a01-4205-8fbc-b273df67f9f4" /> <Saldo>
-<img width="163" height="170" alt="Reporte" src="https://github.com/user-attachments/assets/4a780e85-de4e-4ea6-af86-9651e6d72df2" /> <Reporte>
 <img width="256" height="256" alt="logo iglesia" src="https://github.com/user-attachments/assets/c6de8ae4-34ad-488f-bfd9-ee205e7921fa" /> <Logo Iglesia>
+![Transferencia](https://github.com/user-attachments/assets/60ac928b-5b11-476e-bbaa-a2ebeff1c070) <TRANSFERENCIA>
+![Saldo](https://github.com/user-attachments/assets/73a27fc6-97c2-4b25-99b1-30d1891aa688) <Saldo> 
+![Reporte](https://github.com/user-attachments/assets/f5052137-427d-4d00-979b-e43bcd835342) <REPORTE>
